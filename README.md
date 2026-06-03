@@ -1,10 +1,6 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
 
 
-## NAME:PRABANJAN R
-## REG NO:212224230198
-
-
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
 
